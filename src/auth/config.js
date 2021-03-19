@@ -7,7 +7,7 @@
  * ENABLE_PATHS   enable protection on specific folders/files
  */
 export const AUTH_ENABLED = true
-export const NAME = 'guest'
+export const NAME = 'heige.pcloud@outlook.com'
 export const ENABLE_PATHS = ['/Private']
 
 /**
